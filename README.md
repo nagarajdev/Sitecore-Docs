@@ -1,6 +1,6 @@
 # 🏡 Introduction
 
-## 👋 Welcome to Sitecore factory! 
+## 👋 Welcome to Sitecore factory!
 
 Sitecore factory is a list of blog posts that helps you to learn Sitecore stuffs, guides, post your questions or suggests something better.
 
