@@ -9,10 +9,6 @@ The purpose of this post is to provide details of Sitecore version upgrades from
 This upgrade is consists of 4 versions of update versions and 1 version of update for commerce(this will carried out only after Sitecore 8.2(Update-7))
 {% endhint %}
 
-{% hint style="info" %}
-This upgrade is consists of 4 versions of update versions and 1 version of update for commerce(this will carried out only after Sitecore 8.2(Update-7))
-{% endhint %}
-
 ## Preliminaries
 Preliminaries for checking Sitecore compatibility with your current installation.
 
@@ -76,6 +72,7 @@ by looking into [Sitecore XP upgrade guide for Sitecore 8.2(Update-7),](https://
 As per above listed modules, we need to upgrade WFFM update-3 module to WFFM Update-7 in order to have compatibility with the Sitecore 8.2(Update-7).
 
 As part of modules upgrade process we will run upgrade package(WFFM 8.2 Update-7) as per upgrade guide
+
 
 {% hint style="warn" %}
 This post is written based on my hands on experience and might not be work fit for you
