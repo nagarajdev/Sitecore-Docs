@@ -34,10 +34,18 @@ These below modules you may or may not be used.
 | ASR(Advanced System Reporter)	| Community SC module supported SC 8.0 | UPGRADE NOT REQUIREDCommunity SC module supported SC 8.0 | UPGRADE NOT REQUIREDCommunity SC module supported SC 8.0 | UPGRADE NOT REQUIREDCommunity SC module supported SC 8.0 | UPGRADE NOT REQUIREDCommunity SC module supported SC 8.0 |
 | Personalize Rendering Parameters	Community SC module supported SC 8.2	| UPGRADE NOT REQUIRED | UPGRADE NOT REQUIRED | UPGRADE NOT REQUIRED | UPGRADE NOT REQUIRED |
 
+#### Sitecore support patches
+Scan through your current installation and code solution to list down all the Sitecore support patches being applied on your installation.
+
+| Reference number | Purpose | Compatibility | Details | Remarks | Keep/Remove |
+| ---------------- | ------- | ------------- | ------- | ------- | ----------- |
+| 131168 | Issues with special symbols in the Experience Editor | Sitecore CMS 8.2 rev. 170614 (Update-4) and Sitecore CMS 8.2 rev. 180406 (Update-7) | https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB0502008 | Fixed In: 9.0 rev. 171002 (Initial Release) | Keep |
+
+
 
 #### Sitecore compatibility with your current installation
 | Sitecore/Modules | Compatibility |
-| ---------------- | ----------------- |
+| ---------------- | ------------- |
 | .NET Framework | UPGRADE NOT REQUIRED Please refer Sitecore compatibility table https://kb.sitecore.net/articles/087164 |
 | ASP.NET MVC | UPGRADE NOT REQUIRED Please refer Sitecore compatibility table https://kb.sitecore.net/articles/087164 |
 | Operating System | UPGRADE NOT REQUIRED Please refer Sitecore compatibility table https://kb.sitecore.net/articles/087164 |
