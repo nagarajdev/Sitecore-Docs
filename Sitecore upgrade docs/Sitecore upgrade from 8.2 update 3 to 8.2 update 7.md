@@ -74,6 +74,19 @@ As per above listed modules, we need to upgrade WFFM update-3 module to WFFM Upd
 As part of modules upgrade process we will run upgrade package(WFFM 8.2 Update-7) as per upgrade guide
 
 
-{% hint style="warn" %}
+## Approach
+- Ensure that, upgrading version has right versions of modules and patches or hot fixes.( please refer above table )
+- Same branching strategy will be followed however, set up a separate branch will not be merged into integration or release branch until a full regression test is performed.
+
+### Sitecore XP upgrade approach
+Upgrade approach has been divided into 3 section:
+
+#### Upgrade Sitecore solution:
+The fantastic thing about our Sitecore solution is - we have a decoupled Sitecore solution that means Sitecore all folder/files are reside inside separate DT.Sitecore.ConfigRoles.8.2.170407.1 NuGet package and Sitecore custom code/component are managed as part of Visual Studio solution.
+
+DT.Sitecore.ConfigRoles.8.2.170407.1 NuGet package is being managed in DT-Sitecore GIT repository and package is being referenced in Visual Studio solution.
+
+
+{% hint style="warning" %}
 This post is written based on my hands on experience and might not be work fit for you
 {% endhint %}
