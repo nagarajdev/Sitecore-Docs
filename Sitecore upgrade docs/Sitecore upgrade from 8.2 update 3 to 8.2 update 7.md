@@ -4,6 +4,11 @@ The purpose of this post is to provide details of Sitecore version upgrade from 
 
 ## Overview
 The purpose of this post is to provide details of Sitecore version upgrades from 8.2 update 3 to 8.2 update 7. Here you will learn about what information are required before upgrading to latest version of Sitecore, recommendations and approach followed.
+
+{% hint style="info" %}
+This upgrade is consists of 4 versions of update versions and 1 version of update for commerce(this will carried out only after Sitecore 8.2(Update-7))
+{% endhint %}
+
 {% hint style="info" %}
 This upgrade is consists of 4 versions of update versions and 1 version of update for commerce(this will carried out only after Sitecore 8.2(Update-7))
 {% endhint %}
@@ -51,6 +56,26 @@ Scan through your current installation and code solution to list down all the Si
 | Operating System | UPGRADE NOT REQUIRED Please refer Sitecore compatibility table https://kb.sitecore.net/articles/087164 |
 | Database Server | UPGRADE NOT REQUIRED Please refer Sitecore compatibility table https://kb.sitecore.net/articles/087164 |
 
+## Recommendation
+
+### Sitecore XP upgrade
+In the past, the upgrade for Sitecore update versions will be performed sequentially. After each upgrades, we will perform a full regression test to make sure all functionality working as expected and version upgrade was successful prior to performing the next update version.
+
+At present, new Sitecore update packages have those steps(update versions) inside of them so we don't have to do one update upgrade at a time and we can perform a full regression test after upgraded to Sitecore 8.2(Update-7)
+
+Please refer below Sitecore 8.2(Update-7) package which contains all update packages already.
+
+IMG
+
+As per prerequisites section in Sitecore XP upgrade guide for Sitecore 8.2(Update-7)
+> "If you are upgrading from Sitecore 8.1 rev. 151003 (Initial Release) or later, you can upgrade directly to Sitecore 8.2 rev. 180406 (Update-7). However, if your solution is based on an earlier version of Sitecore, you must first upgrade to Sitecore 8.1 rev. 151003 (Initial Release)."
+
+by looking into [Sitecore XP upgrade guide for Sitecore 8.2(Update-7),](https://dev.sitecore.net/~/media/B50CA65AA6844B4B81BF36A01E9DD269.ashx), we have decided to upgrade directly to Sitecore 8.2(Update-7) and follow Sitecore upgrade guide.
+
+### Sitecore modules/Community modules upgrade
+As per above listed modules, we need to upgrade WFFM update-3 module to WFFM Update-7 in order to have compatibility with the Sitecore 8.2(Update-7).
+
+As part of modules upgrade process we will run upgrade package(WFFM 8.2 Update-7) as per upgrade guide
 
 {% hint style="warn" %}
 This post is written based on my hands on experience and might not be work fit for you
