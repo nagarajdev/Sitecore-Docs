@@ -1,4 +1,4 @@
-# Sitecore upgrade from 8.2 update 3 to 8.2 update 7
+#  <img src="/assets/sc-logo.jpg" width="25px" height="25px" /> Sitecore upgrade from 8.2 update 3 to 8.2 update 7
 
 The purpose of this post is to provide details of Sitecore version upgrade from 8.2 update 3 to 8.2 update 7.
 
@@ -86,7 +86,7 @@ As part of modules upgrade process we will run upgrade package\(WFFM 8.2 Update-
 * Ensure that, upgrading version has right versions of modules and patches or hot fixes.\( please refer above table \)
 * Same branching strategy will be followed however, set up a separate branch will not be merged into integration or release branch until a full regression test is performed.
 
-### Sitecore XP upgrade approach
+### <img src="/assets/sc-logo.jpg" width="15px" height="15px" /> Sitecore XP upgrade approach
 
 Upgrade approach has been divided into 3 sections
 
