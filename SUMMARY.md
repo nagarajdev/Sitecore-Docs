@@ -2,11 +2,11 @@
 
 * [🏡 Introduction](README.md)
 
-## 🧰 Sitecore upgrades <a id="sitecore-upgrades"></a>
+## 🧰 Sitecore upgrades
 
-* [Sitecore upgrade from 8.2 update 3 to 8.2 update 7](sitecore-upgrade-docs/sitecore-upgrade-from-8.2-update-3-to-8.2-update-7.md)
+* [Sitecore upgrade from 8.2 update 3 to 8.2 update 7](sitecore-upgrades/sitecore-upgrade-from-8.2-update-3-to-8.2-update-7.md)
 
-## 🔒 Sitecore Security <a id="sitecore-security"></a>
+## 🔒 Sitecore Security
 
-* [Sitecore Security tasks]()
+* [Sitecore Security tasks](sitecore-security/sitecore-security-tasks.md)
 
