@@ -28,11 +28,16 @@ Below table checks for compatibility of the Sitecore modules or Marketplace modu
 
 | Sitecore/Modules | Update 3\(Current\) | Update 4 | Update 5 | Update 6 | Update 7 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Sitecore Version | Sitecore.NET 8.2 \(rev. 170407\) | ✔️Sitecore.NET 8.2 \(rev. 170614\) | ✔️Sitecore.NET 8.2 \(rev. 170728\) | UPGRADE REQUIRED   Sitecore.NET 8.2 \(rev. 171121\) | UPGRADE REQUIREDSitecore.NET 8.2 \(rev. 180406\) |
-| WFFM | WFFM Update-3 | UPGRADE REQUIRED   WFFM Update-4 | UPGRADE REQUIRED   WFFM Update-5 | UPGRADE REQUIRED   WFFM Update-6 | UPGRADE REQUIRED   WFFM Update-7 |
-| PXM | PXM Core 8.2 | UPGRADE NOT REQUIREDPXM Core 8.2 | UPGRADE NOT REQUIREDPXM Core 8.2 | UPGRADE NOT REQUIREDPXM Core 8.2 | UPGRADE NOT REQUIREDPXM Core 8.2 |
-| Commerce | Sitecore Commerce 8.2.1 Update-2 | UPGRADE NOT REQUIREDSitecore Commerce 8.2.1 Update-2 | UPGRADE NOT REQUIREDSitecore Commerce 8.2.1 Update-2 | UPGRADE NOT REQUIREDSitecore Commerce 8.2.1 Update-2 | UPGRADE REQUIRED Sitecore Commerce 8.2.1 Update-3 |
-| Sitecore Powershell Extenstion | SPE 4.3.0.17491 | UPGRADE NOT REQUIREDSPE 4.3.0.17491 | UPGRADE NOT REQUIREDSPE 4.3.0.17491 | UPGRADE NOT REQUIREDSPE 4.3.0.17491 | UPGRADE NOT REQUIREDSPE 4.3.0.17491 Can be upgraded to SPE 4.7+ \(for Sitecore 8\) has been verified to be fully functional on Sitecore 9. |
+| Sitecore Version | Sitecore.NET 8.2 \(rev. 170407\) | ✔️Sitecore.NET 8.2 \(rev. 170614\) | ✔️Sitecore.NET 8.2 \(rev. 170728\) | ✔️Sitecore.NET 8.2 \(rev. 171121\) | UPGRADE REQUIREDSitecore.NET 8.2 \(rev. 180406\) |
+| WFFM | WFFM Update-3 | ✔️WFFM Update-4 | ✔️WFFM Update-5 | ✔️WFFM Update-6 | ✔️WFFM Update-7 |
+| PXM | PXM Core 8.2 | ❌PXM Core 8.2 | ❌PXM Core 8.2 | ❌PXM Core 8.2 | ❌PXM Core 8.2 |
+| Commerce | Sitecore Commerce 8.2.1 Update-2 | ❌Sitecore Commerce 8.2.1 Update-2 | ❌Sitecore Commerce 8.2.1 Update-2 | ❌Sitecore Commerce 8.2.1 Update-2 | UPGRADE REQUIRED Sitecore Commerce 8.2.1 Update-3 |
+| Sitecore Powershell Extenstion | SPE 4.3.0.17491 | ❌SPE 4.3.0.17491 | ❌SPE 4.3.0.17491 | ❌SPE 4.3.0.17491 | ❌SPE 4.3.0.17491 Can be upgraded to SPE 4.7+ \(for Sitecore 8\) has been verified to be fully functional on Sitecore 9. |
+
+| Legend | Description |
+| :--- | :--- |
+|✔| Upgrade required|
+|❌| Upgrade not required|
 
 #### ✅Sitecore community modules
 
@@ -40,9 +45,9 @@ These below modules you may or may not be used.
 
 | Sitecore/Modules | Update 3\(Current\) | Update 4 | Update 5 | Update 6 | Update 7 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Sitecore Scheduled Publish | Community SC module supported SC 8.0 | UPGRADE NOT REQUIREDCommunity SC module supported SC 8.0 | UPGRADE NOT REQUIREDCommunity SC module supported SC 8.0 | UPGRADE NOT REQUIREDCommunity SC module supported SC 8.0 | UPGRADE NOT REQUIREDCommunity SC module supported SC 8.0 |
-| ASR\(Advanced System Reporter\) | Community SC module supported SC 8.0 | UPGRADE NOT REQUIREDCommunity SC module supported SC 8.0 | UPGRADE NOT REQUIREDCommunity SC module supported SC 8.0 | UPGRADE NOT REQUIREDCommunity SC module supported SC 8.0 | UPGRADE NOT REQUIREDCommunity SC module supported SC 8.0 |
-| Personalize Rendering Parameters    Community SC module supported SC 8.2 | UPGRADE NOT REQUIRED | UPGRADE NOT REQUIRED | UPGRADE NOT REQUIRED | UPGRADE NOT REQUIRED |  |
+| Sitecore Scheduled Publish | Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 |
+| ASR\(Advanced System Reporter\) | Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 |
+| Personalize Rendering Parameters    Community SC module supported SC 8.2 | ❌ | ❌ | ❌ | ❌ |  |
 
 #### ✅Sitecore support patches
 
@@ -56,10 +61,10 @@ Scan through your current installation and code solution to list down all the Si
 
 | Sitecore/Modules | Compatibility |
 | :--- | :--- |
-| .NET Framework | UPGRADE NOT REQUIRED Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
-| ASP.NET MVC | UPGRADE NOT REQUIRED Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
-| Operating System | UPGRADE NOT REQUIRED Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
-| Database Server | UPGRADE NOT REQUIRED Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
+| .NET Framework | ❌ Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
+| ASP.NET MVC | ❌ Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
+| Operating System | ❌ Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
+| Database Server | ❌ Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
 
 ## 🧮Recommendation
 
