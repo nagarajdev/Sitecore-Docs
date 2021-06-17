@@ -28,9 +28,8 @@ Below table checks for compatibility of the Sitecore modules or Marketplace modu
 
 | Legend | Description |
 | :--- | :--- |
-|✔️| Upgrade required|
-|❌| Upgrade not required|
-
+| ✔️ | Upgrade required |
+| ❌ | Upgrade not required |
 
 | Sitecore/Modules | Update 3\(Current\) | Update 4 | Update 5 | Update 6 | Update 7 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -39,7 +38,6 @@ Below table checks for compatibility of the Sitecore modules or Marketplace modu
 | PXM | PXM Core 8.2 | ❌PXM Core 8.2 | ❌PXM Core 8.2 | ❌PXM Core 8.2 | ❌PXM Core 8.2 |
 | Commerce | Sitecore Commerce 8.2.1 Update-2 | ❌Sitecore Commerce 8.2.1 Update-2 | ❌Sitecore Commerce 8.2.1 Update-2 | ❌Sitecore Commerce 8.2.1 Update-2 | UPGRADE REQUIRED Sitecore Commerce 8.2.1 Update-3 |
 | Sitecore Powershell Extenstion | SPE 4.3.0.17491 | ❌SPE 4.3.0.17491 | ❌SPE 4.3.0.17491 | ❌SPE 4.3.0.17491 | ❌SPE 4.3.0.17491 Can be upgraded to SPE 4.7+ \(for Sitecore 8\) has been verified to be fully functional on Sitecore 9. |
-
 
 #### ✅Sitecore community modules
 
@@ -53,8 +51,8 @@ These below modules you may or may not be used.
 
 #### ✅Sitecore support patches
 
-Scan through your current installation and code solution to list down all the Sitecore support patches being applied on your installation.
-Below is the sample data table for your reference.
+Scan through your current installation and code solution to list down all the Sitecore support patches being applied on your installation. Below is the sample data table for your reference.
+
 | Reference number | Purpose | Compatibility | Details | Remarks | Keep/Remove |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 131168 | Issues with special symbols in the Experience Editor | Sitecore CMS 8.2 rev. 170614 \(Update-4\) and Sitecore CMS 8.2 rev. 180406 \(Update-7\) | [https://support.sitecore.com/kb?id=kb\_article\_view&sysparm\_article=KB0502008](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB0502008) | Fixed In: 9.0 rev. 171002 \(Initial Release\) | Keep |
@@ -67,8 +65,6 @@ Below is the sample data table for your reference.
 | ASP.NET MVC | ❌ Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
 | Operating System | ❌ Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
 | Database Server | ❌ Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
-
----
 
 ## 🧮Recommendation
 
@@ -93,8 +89,6 @@ by looking into [Sitecore XP upgrade guide for Sitecore 8.2\(Update-7\)](https:/
 As per above listed modules, we need to upgrade WFFM update-3 module to WFFM Update-7 in order to have compatibility with the Sitecore 8.2\(Update-7\).
 
 As part of modules upgrade process we will run upgrade package\(WFFM 8.2 Update-7\) as per upgrade guide
-
----
 
 ## 🚜Approach
 
