@@ -55,7 +55,7 @@ These below modules you may or may not be used.
 #### ✅Sitecore support patches
 
 Scan through your current installation and code solution to list down all the Sitecore support patches being applied on your installation.
-
+Below is the sample data table for your reference.
 | Reference number | Purpose | Compatibility | Details | Remarks | Keep/Remove |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 131168 | Issues with special symbols in the Experience Editor | Sitecore CMS 8.2 rev. 170614 \(Update-4\) and Sitecore CMS 8.2 rev. 180406 \(Update-7\) | [https://support.sitecore.com/kb?id=kb\_article\_view&sysparm\_article=KB0502008](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB0502008) | Fixed In: 9.0 rev. 171002 \(Initial Release\) | Keep |
