@@ -28,7 +28,7 @@ Below table checks for compatibility of the Sitecore modules or Marketplace modu
 
 | Sitecore/Modules | Update 3\(Current\) | Update 4 | Update 5 | Update 6 | Update 7 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Sitecore Version | Sitecore.NET 8.2 \(rev. 170407\) | ![](../.gitbook/assets/upgrade-req.jpg) <br>   Sitecore.NET 8.2 \(rev. 170614\) | UPGRADE REQUIRED   Sitecore.NET 8.2 \(rev. 170728\) | UPGRADE REQUIRED   Sitecore.NET 8.2 \(rev. 171121\) | UPGRADE REQUIREDSitecore.NET 8.2 \(rev. 180406\) |
+| Sitecore Version | Sitecore.NET 8.2 \(rev. 170407\) | ![](../.gitbook/assets/upgrade-req.jpg)     Sitecore.NET 8.2 \(rev. 170614\) | UPGRADE REQUIRED   Sitecore.NET 8.2 \(rev. 170728\) | UPGRADE REQUIRED   Sitecore.NET 8.2 \(rev. 171121\) | UPGRADE REQUIREDSitecore.NET 8.2 \(rev. 180406\) |
 | WFFM | WFFM Update-3 | UPGRADE REQUIRED   WFFM Update-4 | UPGRADE REQUIRED   WFFM Update-5 | UPGRADE REQUIRED   WFFM Update-6 | UPGRADE REQUIRED   WFFM Update-7 |
 | PXM | PXM Core 8.2 | UPGRADE NOT REQUIREDPXM Core 8.2 | UPGRADE NOT REQUIREDPXM Core 8.2 | UPGRADE NOT REQUIREDPXM Core 8.2 | UPGRADE NOT REQUIREDPXM Core 8.2 |
 | Commerce | Sitecore Commerce 8.2.1 Update-2 | UPGRADE NOT REQUIREDSitecore Commerce 8.2.1 Update-2 | UPGRADE NOT REQUIREDSitecore Commerce 8.2.1 Update-2 | UPGRADE NOT REQUIREDSitecore Commerce 8.2.1 Update-2 | UPGRADE REQUIRED Sitecore Commerce 8.2.1 Update-3 |
