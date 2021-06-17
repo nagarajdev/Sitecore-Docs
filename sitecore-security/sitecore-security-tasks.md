@@ -13,6 +13,13 @@ The purpose of website security is to protect your website from any vulnerabilit
 Website security protects from:
 - DDoS attacks
 - Cross-site scripting attacks
+- SQL injections
+- Phishing attacks
+- So on...
 
 
 How to improve your Sitecore website security
+
+
+## 🚑 Need Help?
+You can always contact me on www.linkedin.com/in/nagaraj-solanki
