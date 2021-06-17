@@ -22,7 +22,6 @@ Preliminaries for checking Sitecore compatibility with your current installation
 
 Collecting all the information regrading Sitecore modules compatibility that you are going to upgrade. Please refer from Sitecore KB [https://support.sitecore.com/kb?id=kb\_article\_view&sysparm\_article=KB0541788](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB0541788)
 
-
 #### ✅Sitecore modules
 
 Below table checks for compatibility of the Sitecore modules or Marketplace modules installed in our solution with the required Target version.
@@ -69,6 +68,8 @@ Below is the sample data table for your reference.
 | Operating System | ❌ Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
 | Database Server | ❌ Please refer Sitecore compatibility table [https://kb.sitecore.net/articles/087164](https://kb.sitecore.net/articles/087164) |
 
+---
+
 ## 🧮Recommendation
 
 ### ✅Sitecore XP upgrade
@@ -92,6 +93,8 @@ by looking into [Sitecore XP upgrade guide for Sitecore 8.2\(Update-7\)](https:/
 As per above listed modules, we need to upgrade WFFM update-3 module to WFFM Update-7 in order to have compatibility with the Sitecore 8.2\(Update-7\).
 
 As part of modules upgrade process we will run upgrade package\(WFFM 8.2 Update-7\) as per upgrade guide
+
+---
 
 ## 🚜Approach
 
