@@ -29,7 +29,7 @@ Below table checks for compatibility of the Sitecore modules or Marketplace modu
 
 | Legend | Description |
 | :--- | :--- |
-|✔| Upgrade required|
+|✔️| Upgrade required|
 |❌| Upgrade not required|
 
 
