@@ -22,9 +22,16 @@ Preliminaries for checking Sitecore compatibility with your current installation
 
 Collecting all the information regrading Sitecore modules compatibility that you are going to upgrade. Please refer from Sitecore KB [https://support.sitecore.com/kb?id=kb\_article\_view&sysparm\_article=KB0541788](https://support.sitecore.com/kb?id=kb_article_view&sysparm_article=KB0541788)
 
+
 #### ✅Sitecore modules
 
 Below table checks for compatibility of the Sitecore modules or Marketplace modules installed in our solution with the required Target version.
+
+| Legend | Description |
+| :--- | :--- |
+|✔| Upgrade required|
+|❌| Upgrade not required|
+
 
 | Sitecore/Modules | Update 3\(Current\) | Update 4 | Update 5 | Update 6 | Update 7 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -34,10 +41,6 @@ Below table checks for compatibility of the Sitecore modules or Marketplace modu
 | Commerce | Sitecore Commerce 8.2.1 Update-2 | ❌Sitecore Commerce 8.2.1 Update-2 | ❌Sitecore Commerce 8.2.1 Update-2 | ❌Sitecore Commerce 8.2.1 Update-2 | UPGRADE REQUIRED Sitecore Commerce 8.2.1 Update-3 |
 | Sitecore Powershell Extenstion | SPE 4.3.0.17491 | ❌SPE 4.3.0.17491 | ❌SPE 4.3.0.17491 | ❌SPE 4.3.0.17491 | ❌SPE 4.3.0.17491 Can be upgraded to SPE 4.7+ \(for Sitecore 8\) has been verified to be fully functional on Sitecore 9. |
 
-| Legend | Description |
-| :--- | :--- |
-|✔| Upgrade required|
-|❌| Upgrade not required|
 
 #### ✅Sitecore community modules
 
