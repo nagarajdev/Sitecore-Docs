@@ -47,7 +47,7 @@ These below modules you may or may not be used.
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Sitecore Scheduled Publish | Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 |
 | ASR\(Advanced System Reporter\) | Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 | ❌Community SC module supported SC 8.0 |
-| Personalize Rendering Parameters    Community SC module supported SC 8.2 | ❌ | ❌ | ❌ | ❌ |  |
+| Personalize Rendering Parameters | Community SC module supported SC 8.2 | ❌ | ❌ | ❌ | ❌ |  |
 
 #### ✅Sitecore support patches
 
