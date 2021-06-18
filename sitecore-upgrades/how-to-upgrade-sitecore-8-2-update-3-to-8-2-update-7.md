@@ -134,3 +134,4 @@ How do I find which Sitecore items are newly added/updated/renamed/deleted?
 This post is written based on my experience and may or may not be fit for you.
 {% endhint %}
 
+You can always contact me on [Linkedin](https://www.linkedin.com/in/nagaraj-solanki)
