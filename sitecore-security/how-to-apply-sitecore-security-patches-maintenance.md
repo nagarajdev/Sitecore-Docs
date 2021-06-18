@@ -11,7 +11,8 @@ During maintenance or new development of Sitecore projects needs to be up to dat
 Well, Sitecore has beautifully documented for all the Sitecore security patches, please refer below URL:
 https://support.sitecore.com/kb?id=kb_search&kb_knowledge_base=44035465db70dc109e54320a689619bf
 
-*You could search security patches as shown in below figure:*
+**You could search security patches as shown in below figure:**
+
 ![](../.gitbook/assets/screenshot-security-patches.png)
 
 ## 🚑 Need Help?
