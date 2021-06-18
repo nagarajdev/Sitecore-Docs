@@ -28,7 +28,7 @@ Sitecore consists of different roles they must follow the security guideline whi
 * Storage roles
 * Indexes
 
-Sitecore provide great documentation for security hardening and security configuration tasks.
+Sitecore provided a beautiful documentation for security hardening and security configuration tasks.
 
 You could run through all the security hardening task from below URL: [https://doc.sitecore.com/developers/90/platform-administration-and-architecture/en/security-tasks.html](https://doc.sitecore.com/developers/90/platform-administration-and-architecture/en/security-tasks.html)
 
