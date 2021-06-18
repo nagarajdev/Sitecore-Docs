@@ -95,7 +95,7 @@ As part of modules upgrade process we will run upgrade package\(WFFM 8.2 Update-
 * Ensure that, upgrading version has right versions of modules and patches or hot fixes.\( please refer above table \)
 * Same branching strategy will be followed however, set up a separate branch will not be merged into integration or release branch until a full regression test is performed.
 
-### ![](../.gitbook/assets/sc-logo.jpg) Sitecore XP upgrade approach
+### ![](../.gitbook/assets/sc-logo%20%286%29%20%287%29%20%287%29%20%287%29.jpg) Sitecore XP upgrade approach
 
 Upgrade approach has been divided into 3 sections
 
@@ -134,3 +134,5 @@ How do I find which Sitecore items are newly added/updated/renamed/deleted?
 This post is written based on my experience and may or may not be fit for you.
 {% endhint %}
 
+## 🚑 Need Help?
+You can always contact me on [Linkedin](https://www.linkedin.com/in/nagaraj-solanki)

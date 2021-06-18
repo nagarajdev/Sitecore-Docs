@@ -1,4 +1,4 @@
-# Sitecore website security guide
+# How to secure Sitecore websites
 
 ## What is Website security
 
@@ -36,7 +36,7 @@ https://doc.sitecore.com/developers/90/platform-administration-and-architecture/
 
 ![I have used this format as secutiry check-list](../.gitbook/assets/screenshot-sc-security.jpg)
 
-
 ## 🚑 Need Help?
 
-You can always contact me on www.linkedin.com/in/nagaraj-solanki
+You can always contact me on [Linkedin](https://www.linkedin.com/in/nagaraj-solanki)
+
