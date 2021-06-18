@@ -25,6 +25,7 @@ Sitecore consists of different roles they must follow the security guideline whi
 -	Application roles
 -	Storage roles
 -	Indexes
+
 Sitecore provide great documentation for security hardening and security configuration tasks.
 
 You could run through all the security hardening task from below URL:
@@ -32,6 +33,9 @@ https://doc.sitecore.com/developers/90/platform-administration-and-architecture/
 
 You could also run through all the security hardening task by different roles:
 https://doc.sitecore.com/developers/90/platform-administration-and-architecture/en/securing-experience-platform.html
+
+## I have used below format as secutiry check-list while applying them on server
+![I have used this format as secutiry check-list](../.gitbook/assets/screenshot-sc-security.jpg)
 
 ## 🚑 Need Help?
 
