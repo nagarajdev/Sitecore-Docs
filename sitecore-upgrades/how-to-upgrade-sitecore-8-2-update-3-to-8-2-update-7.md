@@ -4,7 +4,7 @@ description: >-
   from 8.2 update 3 to 8.2 update 7.
 ---
 
-# Sitecore upgrade from 8.2 update 3 to 8.2 update 7
+# How to upgrade Sitecore upgrade 8.2 update 3 to 8.2 update 7
 
 ## 🗻Overview
 
