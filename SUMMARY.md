@@ -4,7 +4,7 @@
 
 ## 🧰 Sitecore upgrades <a id="sitecore-upgrades"></a>
 
-* [Sitecore upgrade from 8.2 update 3 to 8.2 update 7](sitecore-upgrades/sitecore-upgrade-from-8.2-update-3-to-8.2-update-7.md)
+* [Sitecore upgrade from 8.2 update 3 to 8.2 update 7](sitecore-upgrades/how-to-upgrade-sitecore-8-2-update-3-to-8-2-update-7.md)
 
 ## 🔒 Sitecore Security <a id="sitecore-security"></a>
 
