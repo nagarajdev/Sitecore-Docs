@@ -34,6 +34,7 @@ https://doc.sitecore.com/developers/90/platform-administration-and-architecture/
 You could also run through all the security hardening task by different roles:
 https://doc.sitecore.com/developers/90/platform-administration-and-architecture/en/securing-experience-platform.html
 
+## I have used below format as secutiry check-list while applying them on server
 ![I have used this format as secutiry check-list](../.gitbook/assets/screenshot-sc-security.jpg)
 
 ## 🚑 Need Help?
