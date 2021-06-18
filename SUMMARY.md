@@ -8,5 +8,5 @@
 
 ## 🔒 Sitecore Security
 
-* [Sitecore Security tasks](sitecore-security/sitecore-security-tasks.md)
+* [How to secure Sitecore websites](sitecore-security/how-to-secure-sitecore-websites.md)
 
