@@ -10,4 +10,5 @@
 
 * [How to secure Sitecore websites](sitecore-security/how-to-secure-sitecore-websites.md)
 * [How to apply Sitecore security patches](sitecore-security/how-to-apply-sitecore-security-patches-maintenance.md)
+* [how-to-optimize-sitecore-me](sitecore-media-library/how-to-optimize-sitecore-media-cache.md)
 
