@@ -10,4 +10,3 @@
 
 * [How to secure Sitecore websites](sitecore-security/how-to-secure-sitecore-websites.md)
 * [How to apply Sitecore security patches](sitecore-security/how-to-apply-sitecore-security-patches.md)
-
