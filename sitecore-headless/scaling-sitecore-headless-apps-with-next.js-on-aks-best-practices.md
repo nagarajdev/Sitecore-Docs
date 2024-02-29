@@ -16,13 +16,13 @@ When accessing the page `https://example.com.au/search/productstest?q=rrrrr` in 
 \
 
 
-1. **Pod1:** The path for this pod is \_next/data/I8FGRt1uzTF07kBycePyz/\*, where I8FGRt1uzTF07kBycePyz represents a randomly generated build ID during the build process.
-2. **Pod2:** The path for this pod is \_next/data/v0fSWUQI5ZTB33ntLJKtr/\*, where v0fSWUQI5ZTB33ntLJKtr similarly corresponds to a randomly generated build ID.
+1. **Pod1:** The path for this pod is `/_next/data/I8FGRt1uzTF07kBycePyz/*`, where `I8FGRt1uzTF07kBycePyz` represents a randomly generated build ID during the build process.
+2. **Pod2:** The path for this pod is `_next/data/v0fSWUQI5ZTB33ntLJKtr/*`, where `v0fSWUQI5ZTB33ntLJKtr` similarly corresponds to a randomly generated build ID.
 
 ### Here’s how the process unfolds: 
 
-1. When a request is sent to Pod1, it checks whether the requested page exists. If not, it retrieves the 404 content using the URL \_next/data/I8FGRt1uzTF07kBycePyz/en/404.json.
-2. However, in certain cases, the load balancer may direct the request to Pod2. If Pod2 lacks the folder \_next/data/I8FGRt1uzTF07kBycePyz/\*, it throws a 404 error, preventing our custom 404 error page from being displayed.
+1. When a request is sent to Pod1, it checks whether the requested page exists. If not, it retrieves the 404 content using the URL `_next/data/I8FGRt1uzTF07kBycePyz/en/404.json`.
+2. However, in certain cases, the load balancer may direct the request to Pod2. If Pod2 lacks the folder `_next/data/I8FGRt1uzTF07kBycePyz/*`, it throws a 404 error, preventing our custom 404 error page from being displayed.
 
 ## Solution:
 
