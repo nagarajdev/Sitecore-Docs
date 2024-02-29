@@ -6,13 +6,12 @@ Sitecore publishes security patches regularly based on the new security guidelin
 
 ## Where do I find all the Sitecore security patches
 
-Well, Sitecore has beautifully documented for all the Sitecore security patches, please refer below URL: [https://support.sitecore.com/kb?id=kb\_search&kb\_knowledge\_base=44035465db70dc109e54320a689619bf](https://support.sitecore.com/kb?id=kb_search&kb_knowledge_base=44035465db70dc109e54320a689619bf)
+Well, Sitecore has beautifully documented for all the Sitecore security patches, please refer below URL: [https://support.sitecore.com/kb?id=kb\_search\&kb\_knowledge\_base=44035465db70dc109e54320a689619bf](https://support.sitecore.com/kb?id=kb\_search\&kb\_knowledge\_base=44035465db70dc109e54320a689619bf)
 
 **You could search security patches as shown in below figure:**
 
-![](../.gitbook/assets/screenshot-security-patches.png)
+![](<../.gitbook/assets/screenshot-security-patches (1).png>)
 
 ## 🚑 Need Help?
 
 You can always contact me on [Linkedin](https://www.linkedin.com/in/nagaraj-solanki)
-
